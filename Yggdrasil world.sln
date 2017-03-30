@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yggdrasil world", "Assembly-CSharp-firstpass.csproj", "{4E1612A2-F3AD-11F8-FF98-783C5A193B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yggdrasil world", "Assembly-CSharp.csproj", "{A6A5720F-4EF6-ACD9-E342-4920DF6AEAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yggdrasil world", "Assembly-CSharp-Editor-firstpass.csproj", "{83586A6D-9927-0F2E-5B59-F1E63E33F265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E1612A2-F3AD-11F8-FF98-783C5A193B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1612A2-F3AD-11F8-FF98-783C5A193B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1612A2-F3AD-11F8-FF98-783C5A193B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1612A2-F3AD-11F8-FF98-783C5A193B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A5720F-4EF6-ACD9-E342-4920DF6AEAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A5720F-4EF6-ACD9-E342-4920DF6AEAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A5720F-4EF6-ACD9-E342-4920DF6AEAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A5720F-4EF6-ACD9-E342-4920DF6AEAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83586A6D-9927-0F2E-5B59-F1E63E33F265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83586A6D-9927-0F2E-5B59-F1E63E33F265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83586A6D-9927-0F2E-5B59-F1E63E33F265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83586A6D-9927-0F2E-5B59-F1E63E33F265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
