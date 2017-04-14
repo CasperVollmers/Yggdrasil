@@ -186,7 +186,15 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_Jump = false;
         }
 
+		void OnTriggerEnter(Collider other)
+		{
+			if (other.gameObject.CompareTag ("Gyl"))
+			{
+				other.gameObject.SetActive (false);
+			}
 
+		}
+			
         private float SlopeMultiplier()
         {
             float angle = Vector3.Angle(m_GroundContactNormal, Vector3.up);
@@ -220,6 +228,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 			movementSettings.UpdateDesiredTargetSpeed(input);
             return input;
         }
+
 
 
         private void RotateView()

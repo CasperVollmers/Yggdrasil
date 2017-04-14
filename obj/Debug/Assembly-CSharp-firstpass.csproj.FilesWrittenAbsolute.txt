@@ -19,3 +19,24 @@
 /Users/vladislavdonkov/unity projects/Yggdrasil world/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/vladislavdonkov/unity projects/Yggdrasil world/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/vladislavdonkov/unity projects/Yggdrasil world/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEditor.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Mono.Cecil.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Unity.DataContract.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/vladislavdonkov/Documents/Yggdrasil/Temp/bin/Debug/Mono.Cecil.Mdb.dll
